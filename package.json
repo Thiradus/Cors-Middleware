@@ -2,7 +2,7 @@
 	"name": "thiradus-cors-middleware",
 	"description": "A simplistic yet effective Cross origin resource sharing Express.js middleware.",
 	"author": "TheBillyIsMe",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"license": "MIT",
 	"main": "index.js",
 	"scripts": {},
