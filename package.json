@@ -10,6 +10,9 @@
 		"type": "git",
 		"url": "git+https://github.com/Thiradus/cors-middleware.git"
 	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
 	"keywords": [
 		"cors-headers",
 		"cors",
@@ -20,10 +23,10 @@
 		"javascript",
 		"middleware"
 	],
+	"homepage": "https://github.com/Thiradus/cors-middleware#readme",
 	"bugs": {
 		"url": "https://github.com/Thiradus/cors-middleware/issues"
 	},
-	"homepage": "https://github.com/Thiradus/cors-middleware#readme",
 	"devDependencies": {
 		"eslint": "^6.8.0",
 		"eslint-plugin-html": "^6.0.0",
