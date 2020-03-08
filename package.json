@@ -10,9 +10,6 @@
 		"type": "git",
 		"url": "git+https://github.com/Thiradus/cors-middleware.git"
 	},
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/"
-	},
 	"keywords": [
 		"cors-headers",
 		"cors",
