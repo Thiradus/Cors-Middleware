@@ -1,7 +1,9 @@
 {
 	"name": "thiradus-cors-middleware",
-	"version": "0.1.0",
 	"description": "A simplistic cors middleware module. ",
+	"author": "TheBillyIsMe",
+	"version": "0.1.0",
+	"license": "MIT",
 	"main": "index.js",
 	"scripts": {},
 	"repository": {
@@ -18,8 +20,9 @@
 		"javascript",
 		"middleware"
 	],
-	"author": "TheBillyIsMe",
-	"license": "MIT",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
 	"bugs": {
 		"url": "https://github.com/Thiradus/cors-middleware/issues"
 	},
