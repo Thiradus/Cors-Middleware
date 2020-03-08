@@ -9,10 +9,14 @@
 		"url": "git+https://github.com/Thiradus/cors-middleware.git"
 	},
 	"keywords": [
+		"cors-headers",
 		"cors",
 		"cross-origin",
-		"middleware",
-		"express"
+		"cross-origin-resource-sharing",
+		"express",
+		"expressjs",
+		"javascript",
+		"middleware"
 	],
 	"author": "TheBillyIsMe",
 	"license": "MIT",
