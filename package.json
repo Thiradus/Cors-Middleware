@@ -20,9 +20,6 @@
 		"javascript",
 		"middleware"
 	],
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/"
-	},
 	"bugs": {
 		"url": "https://github.com/Thiradus/cors-middleware/issues"
 	},
