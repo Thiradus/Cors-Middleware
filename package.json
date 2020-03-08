@@ -2,7 +2,7 @@
 	"name": "thiradus-cors-middleware",
 	"description": "A simplistic cors middleware module. ",
 	"author": "TheBillyIsMe",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"license": "MIT",
 	"main": "index.js",
 	"scripts": {},
