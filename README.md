@@ -1,3 +1,2 @@
 # cors-middleware
-
-A simplistic cors middleware module.
+A simplistic yet useful Cross origin resource sharing Express.js middleware.
