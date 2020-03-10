@@ -16,7 +16,7 @@ npm install thiradus-cors-middleware --save
 ### Example
 
 ```JavaScript
-const cors = require('thiradus-cors-middleware')
+const cors = require('thiradus-cors-middleware');
 const express = require('express');
 
 const app = express();
