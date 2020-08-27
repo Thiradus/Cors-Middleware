@@ -1,9 +1,16 @@
+<div align="center">
 
-# thiradus-cors-middleware
+[![Thiradus Dark Banner](https://raw.githubusercontent.com/Thiradus/Branding/master/Graphics/Banner/Banner-Dark.png)](https://thiradus.com/)
+
+<h2>CORS Middleware</h2>
+
 ![Downloads](https://img.shields.io/npm/dt/thiradus-cors-middleware?style=flat-square) ![MIT License](https://img.shields.io/github/license/Thiradus/cors-middleware?style=flat-square) [![Depfu](https://badges.depfu.com/badges/20285344da99d629b259c64b9591d1cd/overview.svg)](https://depfu.com/github/Thiradus/cors-middleware?project_id=11307)
+
+</div>
+
 ## Overview
 
-A simplistic yet effective Cross origin resource sharing [Express.js](https://expressjs.com/) middleware.
+A simplistic yet effective Cross-Origin Resource Sharing [Express.js](https://expressjs.com/) Middleware.
 
 ## Installation
 

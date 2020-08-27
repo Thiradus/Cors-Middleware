@@ -2,10 +2,9 @@
 	"name": "thiradus-cors-middleware",
 	"description": "A simplistic yet effective Cross origin resource sharing Express.js middleware.",
 	"author": "TheBillyIsMe",
-	"version": "1.0.4",
+	"version": "1.1.0",
 	"license": "MIT",
 	"main": "index.js",
-	"scripts": {},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/Thiradus/cors-middleware.git"
@@ -25,9 +24,9 @@
 		"url": "https://github.com/Thiradus/cors-middleware/issues"
 	},
 	"devDependencies": {
-		"eslint": "^6.8.0",
-		"eslint-plugin-html": "^6.0.2",
-		"eslint-plugin-import": "^2.20.2",
+		"eslint": "^7.7.0",
+		"eslint-plugin-html": "^6.0.3",
+		"eslint-plugin-import": "^2.22.0",
 		"eslint-plugin-node": "^11.1.0",
 		"eslint-plugin-promise": "^4.2.1",
 		"eslint-plugin-standard": "^4.0.1"
