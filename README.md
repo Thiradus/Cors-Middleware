@@ -33,4 +33,4 @@ app.use(cors);
 
 ## License
 
-This project is licensed under the [MIT](./LICENSE.md) License &copy; 2015-2020 [Thiradus](https://github.com/Thiradus/)
+This repository is licensed under the [MIT](./LICENSE.md) License &copy; 2015-2020 [Thiradus](https://github.com/Thiradus/)
